@@ -1,0 +1,9 @@
+
+Match operations - https://www.codewars.com/kata/59c287b16bddd291c700009a
+
+
+Decimals - https://www.codewars.com/kata/57256064856584bc47000611
+
+filterFunction - https://www.codewars.com/kata/56dd9b84fe5754786f0014f7
+
+the vowel code - https://www.codewars.com/kata/53697be005f803751e0015aa
